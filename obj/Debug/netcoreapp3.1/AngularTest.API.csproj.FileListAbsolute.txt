@@ -16,3 +16,5 @@ D:\Programovani\Sandbox\Angular\AngularTest.API\obj\Debug\netcoreapp3.1\AngularT
 D:\Programovani\Sandbox\Angular\AngularTest.API\obj\Debug\netcoreapp3.1\AngularTest.API.RazorTargetAssemblyInfo.cache
 D:\Programovani\Sandbox\Angular\AngularTest.API\obj\Debug\netcoreapp3.1\AngularTest.API.dll
 D:\Programovani\Sandbox\Angular\AngularTest.API\obj\Debug\netcoreapp3.1\AngularTest.API.pdb
+D:\Programovani\Sandbox\Angular\AngularTest.API\obj\Debug\netcoreapp3.1\AngularTest.API.csproj.CoreCompileInputs.cache
+D:\Programovani\Sandbox\Angular\AngularTest.API\obj\Debug\netcoreapp3.1\AngularTest.API.genruntimeconfig.cache
